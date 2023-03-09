@@ -5,6 +5,8 @@ Most of that time I have worked for agencies that weren't that keen on open sour
 
 Some hot takes to keep you entertained:
 
-- 🤡 your JS app is not morally superior because you have a 3 minute compile-run loop.
-- 🚀 PHP will still dominate the web when you wipe your grandkids' arses.
-- 👀 Don't build a distributed system if you have a monolithic organisation.
+🤡 Your JS app is not morally superior because you have a 3 minute compile-run loop.
+
+🚀 PHP will still dominate the web when you wipe your grandkids' arses.
+
+👀 Don't build a distributed system if you have a monolithic organisation.
